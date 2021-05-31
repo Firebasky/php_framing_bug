@@ -87,7 +87,7 @@ class testView{
 
 目录：
 
-![image-20210115211145540](.img/1.png)
+![image-20210115211145540](img/1.png)
 
 `index.php`
 
